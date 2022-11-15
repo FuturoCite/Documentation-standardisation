@@ -12,7 +12,7 @@ La première étape de la standardisation des données consiste dont à s'accord
 
 ## Faciliter leur interopérabilité 
 À cet enjeu de découvrabilité s’ajoute un défi lié à la normalisation des données ouvertes. D’un producteur à l'autre, les fichiers ne contiennent pas nécessairement les mêmes champs ou ne donnent pas le même niveau de détail. Les valeurs dans les champs eux-mêmes ne sont pas normalisées. 
-La diversité des modèles concernant les jeux de données prioritaires identifiés dans le cadre du groupe de travail a confirmé ce besoin d'harmonisation. Les emplacements PMR ne sont par exemple pas décrit de la même manière à Liège, Namur, Mons et La Louvière. 
+La diversité des modèles concernant les jeux de données prioritaires identifiés dans le cadre du groupe de travail a confirmé ce besoin d'harmonisation. Les emplacements PMR ne sont par exemple pas décrits de la même manière à Liège, Namur, Mons et La Louvière. 
 Concrètement, cela rend très compliqué l'agrégation des données au niveau du territoire wallon, et donc entrave un état des lieux de l'accessibilité et la développement d'applications qui fonctionneraient au-delà du niveau urbain. En d'autres termes, les données sont accessibles mais pas intéroprables. 
 
 
