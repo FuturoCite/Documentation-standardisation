@@ -60,5 +60,11 @@ Deux situations sont possibles :
 
 Dans les deux cas (détaillés sur des pages distinctes), les producteurs peuvent s'appuyer sur des outils de validation afin de s'assurer de la conformité de leur jeu de données à un standard, ses plateformes [validata](https://validata.fr/) et [CSVLint](https://csvlint.io/) par exemple
 
-# Sur quels outils s'appuyer ? 
-
+Format de fichier, quel que soit le cas de figure le producteur doit respecter un format de fichier particulier. Si le format de publication est le CSV (Comma Separated Values, valeurs séparées par des virgules), les règles suivantes doivent être suivies :
+* l’encodage des caractères est UTF-8,
+* le séparateur des colonnes est la virgule,
+* le séparateur des nombres décimaux est le point,
+* le séparateur de valeurs multiples dans un champ est le point-virgule,
+* si un champ contient une virgule, il doit être entouré de guillemets doubles,
+* chaque ligne doit avoir le même nombre de champs,
+* le type MIME ou Content-Type est text/csv.
