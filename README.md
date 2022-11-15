@@ -22,7 +22,7 @@ Concrètement, cela rend très compliqué l'agrégation des données au niveau d
 
 ## En bref : standardiser pour accroître l'impact de l'open data 
 
-Ces enjeux de découvrabilité et de normalisation des données limitent l’impact de l’open data. Sans harmonisation des pratiques, il est difficile de développer des services ou des usages qui dépassent un seul territoire.
+<b>Ces enjeux de découvrabilité et de normalisation des données limitent l’impact de l’open data. Sans harmonisation des pratiques, il est difficile de développer des services ou des usages qui dépassent un seul territoire.</b>
 
 Si la standardisation est un levier important  de l’open data, les données non standardisées ne sont pour autant pas sans valeur, loin de là ! La publication de jeux de données dans un format ouvert (CSV plutôt que PDF par exemple) constitue déjà une étape importante dans l’application du principe de transparence, et une donnée peut être qualitative sans être standardisée. Si de nombreux standards sont déjà disponibles ou en cours de conception, il n'en existe d'ailleurs pas encore pour tous les jeux de données. 
 La standardisation de données déjà publiées peut tout de même constituer une étape supplémentaire dans la stratégie open data d’une collectivité. Rendre conforme un jeu de données à un schéma est en effet possible post-publication.    
