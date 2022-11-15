@@ -34,9 +34,19 @@ La standardisation de données déjà publiées peut tout de même constituer un
 # La production de standards de données prioritaires  
 
 Constatant la production de jeux de données disparates à l'échelle de la fédération Wallonie-Bruxelles, Futuro Cité a réuni, dans le cadre d'un groupe de travail sollicité depuis mai 2021, une vingtaine de collectivités. La concertation de celles-ci a permis 
-* 1) d'identifier collectivitement des jeux de données jugés prioritaires  
-* 2) de s'accorder sur des spécifications des modèles de données. 
+* d'identifier collectivitement des jeux de données jugés prioritaires  
+* de s'accorder sur des spécifications des modèles de données. 
 La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle faciliten l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
+
+Les membres du groupe de travail ont défini des schémas de données qui décrivent le format des fichiers, les différents champs, les valeurs possibles… Ils se sont appuyés sur un état des lieux du patrimoine de données des collectivités wallones et sur une étude des modèles utilisés par des collectivités déjà productrices de ces données, en prenant en compte les retours faits par les réutilisateurs.
+
+Cinq schémas sont actuellement disponibles : 
+* [les circuits touristiques](https://github.com/FuturoCite/standard-circuits-touristiques)
+* [les emplacements PMR](https://github.com/FuturoCite/standard-emplacements-PMR)
+* [les équipements collectifs](https://github.com/FuturoCite/standard-equipements-collectifs) 
+* [les stationnements vélos](https://github.com/FuturoCite/standard-stationnements-velos)
+* [les travaux de voiries](https://github.com/FuturoCite/standard-travaux-voiries) 
+
 
 # Quelles sont les grandes étapes de la standardisation des données ? 
 
