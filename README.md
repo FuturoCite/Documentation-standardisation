@@ -7,7 +7,7 @@ Ce dépôt documente l'intérêt de standardiser les données ouvertes. Il s'app
 ## Favoriser la découvrabilité des données 
 Aujourd'hui, les données ouvertes sont très hétérogènes d'une collectivité à l'autre. En fonction de leur patrimoine, de leurs pratiques et de leurs compétences, les territoirent publient des données très hétérogènes. Ils ne publient pas les mêmes jeux de données, et lorsque c'est le cas ils ne les nomment pas toujours de la même manière. 
 Par exemple, sur le sujet des aménagements cyclables de nombreuses terminologies sont possibles. Il faudra alternativement chercher « aménagements cyclables » ou « pistes cyclables » et on retrouvera rarement le mot clef  « vélo » dans les descriptions des jeux de données alors que le terme vient spontanément sur le sujet.
-La première étape de la standardisation des données consiste dont à s'accorder sur un vocabulaire commune, afin de favoriser la découvrabilité des données, c'est-à-dire permettre aux utilisateurs de les trouver facilement.   
+La première étape de la standardisation des données consiste dont à s'accorder sur un vocabulaire commun, afin de favoriser la découvrabilité des données, c'est-à-dire permettre aux utilisateurs de les trouver facilement.   
 
 
 ## Faciliter leur interopérabilité 
