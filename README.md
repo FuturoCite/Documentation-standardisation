@@ -5,8 +5,12 @@ Cinq premiers standards concernent : les circuits touristiques, les emplacements
 
 # Pourquoi standardiser des données ouvertes ? 
 
+
 ## Favoriser la découvrabilité des données 
-Aujourd'hui, les données ouvertes sont très hétérogènes d'une collectivité à l'autre. En fonction de leur patrimoine, de leurs pratiques et de leurs compétences, les territoirent publient des données très hétérogènes. Ils ne publient pas les mêmes jeux de données, et lorsque c'est le cas ils ne les nomment pas toujours de la même manière. 
+
+Il existe un besoin d'harmonisation de la publication en open data de données essentielles produites par les administrations publiques wallones. En octobre 2022, plus de 660 jeux de données sont publiés sur le portail [Open Data Wallonie Bruxelles (ODWB)](https://www.odwb.be/explore/?sort=modified), qui sont très hétérogènes.
+
+En fonction de leur patrimoine, de leurs pratiques et de leurs compétences, les territoirent publient en effet des données très diverses. Ils ne publient pas les mêmes jeux de données, et lorsque c'est le cas ils ne les nomment pas toujours de la même manière. 
 
 Par exemple, sur le sujet des aménagements cyclables de nombreuses terminologies sont possibles. Il faudra alternativement chercher « aménagements cyclables » ou « pistes cyclables » et on retrouvera rarement le mot clef  « vélo » dans les descriptions des jeux de données alors que le terme vient spontanément sur le sujet.
 
@@ -28,6 +32,8 @@ Si la standardisation est un levier important  de l’open data, les données no
 La standardisation de données déjà publiées peut tout de même constituer une étape supplémentaire dans la stratégie open data d’une collectivité. Rendre conforme un jeu de données à un schéma est en effet possible post-publication.    
 
 # La production de standards de données prioritaires  
+
+Constatant la production de jeux de données disparates à l'échelle de la fédération Wallonie-Bruxelles, Futuro Cité a réuni, dans le cadre d'un groupe de travail sollicité depuis mai 2021, une vingtaine de collectivités. La concertation de celles-ci a permis 1) d'identifier collectivitement des jeux de données jugés prioritaires et 2) de s'accorder sur des spécifications des modèles de données. La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle faciliten l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
 
 # Quelles sont les grandes étapes de la standardisation des données ? 
 
