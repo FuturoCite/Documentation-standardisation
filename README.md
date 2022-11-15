@@ -50,6 +50,15 @@ Cinq schémas sont actuellement disponibles :
 * [les travaux de voiries](https://github.com/FuturoCite/standard-travaux-voiries) 
 
 
-# Quelles sont les grandes étapes de la standardisation des données ? 
+# Les grandes étapes de la standardisation des données ? 
+
+La standardisation demande un travail important de la part des producteurs de données publiques ouvertes. Reprendre des données selon les spécifications d’un standard, ou produire de nouveaux de jeux de données demande en effet du travail, souvent peu visible.  
+
+Deux situations sont possibles : 
+* [Le producteur veut standardiser des données déjà existantes](https://github.com/FuturoCite/Documentation-standardisation/blob/main/Publier%20des%20donn%C3%A9es%20standardis%C3%A9es/Standardiser%20des%20donn%C3%A9es%20existantes) 
+* [Le producteur souhaite produire de nouvelles données en se conformant à un standard](https://github.com/FuturoCite/Documentation-standardisation/blob/main/Publier%20des%20donn%C3%A9es%20standardis%C3%A9es/Produire%20de%20nouvelles%20donn%C3%A9es%20standardis%C3%A9es)
+
+Dans les deux cas (détaillés sur des pages distinctes), les producteurs peuvent s'appuyer sur des outils de validation afin de s'assurer de la conformité de leur jeu de données à un standard, ses plateformes [validata](https://validata.fr/) et [CSVLint](https://csvlint.io/) par exemple
 
 # Sur quels outils s'appuyer ? 
+
