@@ -55,5 +55,3 @@ Cinq schémas sont actuellement disponibles :
 # Quelles sont les grandes étapes de la standardisation des données ? 
 
 # Sur quels outils s'appuyer ? 
-
-# Glossaire
