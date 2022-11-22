@@ -58,7 +58,7 @@ Deux situations sont possibles :
 * [Le producteur veut standardiser des données déjà existantes](https://github.com/FuturoCite/Documentation-standardisation/blob/main/Publier%20des%20donn%C3%A9es%20standardis%C3%A9es/Standardiser%20des%20donn%C3%A9es%20existantes) 
 * [Le producteur souhaite produire de nouvelles données en se conformant à un standard](https://github.com/FuturoCite/Documentation-standardisation/blob/main/Publier%20des%20donn%C3%A9es%20standardis%C3%A9es/Produire%20de%20nouvelles%20donn%C3%A9es%20standardis%C3%A9es)
 
-Dans les deux cas (détaillés sur des pages distinctes), les producteurs peuvent s'appuyer sur des outils de validation afin de s'assurer de la conformité de leur jeu de données à un standard, en s'appuyant sur les plateformes [validata](https://validata.fr/) ou [CSVLint](https://csvlint.io/) par exemple
+Dans les deux cas (détaillés sur des pages distinctes), les producteurs peuvent utiliser des outils de validation afin de s'assurer de la conformité de leur jeu de données à un standard, en s'appuyant sur les plateformes [validata](https://validata.fr/) ou [CSVLint](https://csvlint.io/) par exemple
 
 Quel que soit le cas de figure, le producteur doit également respecter des règles de formatage. Si le format de publication est le CSV (Comma Separated Values, valeurs séparées par des virgules), les règles sont les suivantes :
 * l’encodage des caractères est UTF-8,
