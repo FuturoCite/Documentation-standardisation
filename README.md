@@ -1,4 +1,4 @@
-Ce dépôt documente l'intérêt de standardiser les données ouvertes. Il s'appuie sur les exemples des standards de données prioritaires identifiés et produits par Futuro Cité dans le cadre de [groupes de travail](https://www.futurocite.be/activites/groupe-de-travail-open-data). Ces derniers réunissent régulièrement des collectivités wallones engagées dans des démarches d'open data. 
+Ce dépôt documente l'intérêt de standardiser les données ouvertes. Il s'appuie sur les exemples des standards de données prioritaires identifiés et produits par FuturoCité dans le cadre de [groupes de travail](https://www.futurocite.be/activites/groupe-de-travail-open-data). Ces derniers réunissent régulièrement des collectivités wallones engagées dans des démarches d'open data. 
 Cinq premiers standards concernent : les circuits touristiques, les emplacements PMR, les équipements collectifs, les stationnements vélos, les travaux de voiries. 
 
 # Pourquoi standardiser des données ouvertes ? 
@@ -31,7 +31,7 @@ La standardisation de données déjà publiées peut tout de même constituer un
 
 # Standardiser des "données prioritaires"   
 
-Constatant la production de jeux de données disparates à l'échelle de la fédération Wallonie-Bruxelles, Futuro Cité a réuni, dans le cadre d'un groupe de travail sollicité depuis mai 2021, une vingtaine de collectivités. La concertation de celles-ci a permis 
+Constatant la production de jeux de données disparates à l'échelle de la fédération Wallonie-Bruxelles, FuturoCité a réuni, dans le cadre d'un groupe de travail sollicité depuis mai 2021, une vingtaine de collectivités. La concertation de celles-ci a permis 
 * d'identifier collectivitement des jeux de données jugés prioritaires  
 * de s'accorder sur des spécifications des modèles de données. 
 La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle faciliten l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
