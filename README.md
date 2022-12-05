@@ -1,4 +1,4 @@
-Ce dépôt documente l'intérêt de standardiser les données ouvertes. Il s'appuie sur les exemples des standards de données prioritaires identifiés et produits par FuturoCité dans le cadre de [groupes de travail](https://www.futurocite.be/activites/groupe-de-travail-open-data). Ces derniers réunissent régulièrement des collectivités wallones engagées dans des démarches d'open data. 
+Ce dépôt documente l'intérêt de standardiser les données ouvertes. Il s'appuie sur les exemples des standards de données prioritaires identifiés et produits par FuturoCité dans le cadre de [groupes de travail](https://www.futurocite.be/activites/groupe-de-travail-open-data). Ces derniers réunissent régulièrement des collectivités wallonnes engagées dans des démarches d'open data. 
 Cinq premiers standards concernent : les circuits touristiques, les emplacements PMR, les équipements collectifs, les stationnements vélos, les travaux de voiries. 
 
 # Pourquoi standardiser des données ouvertes ? 
@@ -6,9 +6,9 @@ Cinq premiers standards concernent : les circuits touristiques, les emplacements
 
 ## Favoriser la découvrabilité des données 
 
-Il existe un besoin d'harmonisation de la publication en open data de données essentielles produites par les administrations publiques wallones. En octobre 2022, plus de 660 jeux de données sont publiés sur le portail [Open Data Wallonie Bruxelles (ODWB)](https://www.odwb.be/explore/?sort=modified), qui sont très hétérogènes.
+Il existe un besoin d'harmonisation de la publication en open data de données essentielles produites par les administrations publiques wallonnes. En octobre 2022, plus de 660 jeux de données sont publiés sur le portail [Open Data Wallonie Bruxelles (ODWB)](https://www.odwb.be/explore/?sort=modified), qui sont très hétérogènes.
 
-En fonction de leur patrimoine, de leurs pratiques et de leurs compétences, les territoirent publient en effet des données très diverses. Ils ne publient pas les mêmes jeux de données, et lorsque c'est le cas ils ne les nomment pas toujours de la même manière. 
+En fonction de leur patrimoine, de leurs pratiques et de leurs compétences, les territoires publient en effet des données très diverses. Ils ne publient pas les mêmes jeux de données, et lorsque c'est le cas ils ne les nomment pas toujours de la même manière. 
 
 Par exemple, sur le sujet des aménagements cyclables de nombreuses terminologies sont possibles. Il faudra alternativement chercher « aménagements cyclables » ou « pistes cyclables » et on retrouvera rarement le mot clef  « vélo » dans les descriptions des jeux de données alors que le terme vient spontanément sur le sujet.
 
@@ -26,7 +26,7 @@ Concrètement, cela rend très compliqué l'agrégation des données au niveau d
 
 <b>Ces enjeux de découvrabilité et de normalisation des données limitent l’impact de l’open data. Sans harmonisation des pratiques, il est difficile de développer des services ou des usages qui dépassent un seul territoire.</b>
 
-Si la standardisation est un levier important  de l’open data, les données non standardisées ne sont pour autant pas sans valeur, loin de là ! La publication de jeux de données dans un format ouvert (CSV plutôt que PDF par exemple) constitue déjà une étape importante dans l’application du principe de transparence, et une donnée peut être qualitative sans être standardisée. Si de nombreux standards sont déjà disponibles ou en cours de conception, il n'en existe d'ailleurs pas encore pour tous les jeux de données. 
+Si la standardisation est un levier important  de l’open data, les données non standardisées ne sont pour autant pas sans valeur, loin de là ! La publication de jeux de données dans un format ouvert (CSV plutôt que PDF par exemple) constitue déjà une étape importante dans l’application du principe de transparence, et une donnée peut être réutilisable sans être standardisée. Si de nombreux standards sont déjà disponibles ou en cours de conception, il n'en existe d'ailleurs pas encore pour tous les jeux de données. 
 La standardisation de données déjà publiées peut tout de même constituer une étape supplémentaire dans la stratégie open data d’une collectivité. Rendre conforme un jeu de données à un schéma est en effet possible post-publication.    
 
 # Standardiser des "données prioritaires"   
@@ -34,7 +34,7 @@ La standardisation de données déjà publiées peut tout de même constituer un
 Constatant la production de jeux de données disparates à l'échelle de la fédération Wallonie-Bruxelles, FuturoCité a réuni, dans le cadre d'un groupe de travail sollicité depuis mai 2021, une vingtaine de collectivités. La concertation de celles-ci a permis 
 * d'identifier collectivitement des jeux de données jugés prioritaires  
 * de s'accorder sur des spécifications des modèles de données. 
-La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle faciliten l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
+La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle facilitent l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
 
 ## Cinq schémas de données à disposition 
 
