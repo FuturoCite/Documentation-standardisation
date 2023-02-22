@@ -43,11 +43,11 @@ La standardisation des données ouvertes s’articule autour de schémas. Ces de
 Les membres du groupe de travail ont défini des schémas de données qui décrivent le format des fichiers, les différents champs, les valeurs possibles… Ils se sont appuyés sur un état des lieux du patrimoine de données des collectivités wallones et sur une étude des modèles utilisés par des collectivités déjà productrices de ces données, en prenant en compte les retours faits par les réutilisateurs.
 
 Cinq schémas sont actuellement disponibles : 
-* [les circuits touristiques](https://github.com/FuturoCite/standard-circuits-touristiques)
-* [les emplacements PMR](https://github.com/FuturoCite/standard-emplacements-PMR)
-* [les équipements collectifs](https://github.com/FuturoCite/standard-equipements-collectifs) 
-* [les stationnements vélos](https://github.com/FuturoCite/standard-stationnements-velos)
-* [les travaux de voiries](https://github.com/FuturoCite/standard-travaux-voiries) 
+* [les circuits touristiques](https://github.com/FuturoCite/standard-circuits-touristiques](http://www.futurocite.be/schemas-des-circuits-touristiques/)
+* [les emplacements PMR](http://www.futurocite.be/schema-des-emplacements-pmr/)
+* [les équipements collectifs](http://www.futurocite.be/schema-des-equipements-collectifs/) 
+* [les stationnements vélos](https://github.com/FuturoCite/standard-stationnements-velos](https://www.futurocite.be/schema-des-stationnements-velos/)
+* [les travaux de voiries](https://github.com/FuturoCite/standard-travaux-voiries](http://www.futurocite.be/schema-des-travaux-de-voirie/) 
 
 
 # La standardisation concrètement 
