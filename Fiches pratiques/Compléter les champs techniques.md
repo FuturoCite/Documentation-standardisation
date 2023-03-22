@@ -45,7 +45,7 @@ La valeur bien formatée se présente ainsi :
 
 Pour obtenir cette valeur à partir d’un fichier GPX, il faut suivre **une procédure en 3 étapes** :  
 
-   **1. Convertir le fichier GPX en GeoJSON, en utilisant** :  [https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/](https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/)  (il est possible de convertir plusieurs fichiers d’un coup). **Ne pas tenir compte du message d’erreur**. 
+ >  **1. Convertir le fichier GPX en GeoJSON, en utilisant** :  [https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/](https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/)  (il est possible de convertir plusieurs fichiers d’un coup). **Ne pas tenir compte du message d’erreur**. 
 
 
 ![alt_text](https://i.ibb.co/Ht2rNzG/Capture-d-e-cran-2023-03-22-a-13-58-33.png)
