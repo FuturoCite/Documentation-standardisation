@@ -5,16 +5,13 @@ Tous les standards de données de FuturoCité comportent un ensemble de champs �
 Remplir ces champs nécessite cependant d’aller chercher des données dans plusieurs sources. 
 
 
-
 ## **Le code INS**
 
 Le code INS est l’identifiant unique de chaque commune belge. 
 
 Il est facilement trouvable à partir du jeu de données « Codes des communes » de StatBel, téléchargeable depuis [cette page](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie)  
 
-
 ![alt_text](https://i.ibb.co/B3dFcnx/Capture-d-e-cran-2023-03-22-a-13-55-31.png)
-
 
 Sur la même page du site de StatBel, il est également possible de télécharger le jeu « Codes des parties de communes (NIS6) », dans lequel se trouve le code INS d’une partie de commune. 
 
@@ -50,13 +47,13 @@ Pour obtenir cette valeur à partir d’un fichier GPX, il faut suivre **une pro
 
 ![alt_text](https://i.ibb.co/Ht2rNzG/Capture-d-e-cran-2023-03-22-a-13-58-33.png)
 
-   **2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)**
+ >  **2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)**
 
 (Nouveau jeu de donnée → Récupérer un fichier depuis mon ordinateur) 
 
 ![alt_text](https://i.ibb.co/p3WNrxh/Capture-d-e-cran-2023-03-22-a-13-59-40.png)
 
-   **3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données**
+>   **3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données**
 
 ![alt_text](https://i.ibb.co/2FjF85x/Capture-d-e-cran-2023-03-22-a-14-00-25.png)
  
