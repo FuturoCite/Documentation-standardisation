@@ -27,13 +27,13 @@ Voici les liens pour rappel, vous n’avez qu’à les copier-coller :
 
 ![alt_text](https://i.ibb.co/kcDSPDC/Capture-d-e-cran-2023-03-22-a-12-22-49.png)
 
-### **→ Si mon fichier est valide** 
-Félicitations ! Je m’assure que mon fichier est correctement nommé et je peux le publier sur ODWB (sans oublier de le documenter !) 
+_### **→ Si mon fichier est valide** 
+_Félicitations ! Je m’assure que mon fichier est correctement nommé et je peux le publier sur ODWB (sans oublier de le documenter !) 
 
 ![alt_text](https://i.ibb.co/PNh4Bm4/Capture-d-e-cran-2023-03-22-a-12-24-01.png)
 
-### **→ Si mon fichier est invalide** 
-Pas de panique.   
+_### **→ Si mon fichier est invalide** 
+_Pas de panique.   
 
 Une liste de recommandations est générée en bas de la page. 
 
