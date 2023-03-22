@@ -37,7 +37,7 @@ Plusieurs outils en ligne permettent de retrouver facilement des coordonnées g�
 * Le site [https://www.coordonnees-gps.fr/carte/pays/BE](https://www.coordonnees-gps.fr/carte/pays/BE). On peut également obtenir des informations topographiques sur une adresse.
 * Geoapity permet également de retrouver les coordonnées géographiques ([https://www.geoapify.com/tools/geocoding-online](https://www.geoapify.com/tools/geocoding-online)), ou au contraire de trouver une adresse à partir de coordonnées ([https://www.geoapify.com/tools/reverse-geocoding-online](https://www.geoapify.com/tools/reverse-geocoding-online))
 
-## **Remplir le champ “geometry” (si applicable, par ex. standard des circuits touristiques) : **
+## **Remplir le champ “geometry” (si applicable, par ex. standard des circuits touristiques) :**
 
 Le champ "geometry" est une suite de coordonnées, générées à partir d’un fichier GPX (un format qui permet l’échange de coordonnées GPS). Concrètement, elle permet l’affichage de l’objet d’écrit (ici, un itinéraire de balade) sur une carte.   
 
@@ -52,14 +52,13 @@ Pour obtenir cette valeur à partir d’un fichier GPX, il faut suivre **une pro
 
 ![alt_text](https://i.ibb.co/Ht2rNzG/Capture-d-e-cran-2023-03-22-a-13-58-33.png)
 
-**2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)  **
+**2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)**
 
 (Nouveau jeu de donnée → Récupérer un fichier depuis mon ordinateur) 
 
 ![alt_text](https://i.ibb.co/p3WNrxh/Capture-d-e-cran-2023-03-22-a-13-59-40.png)
 
-**3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données 
-**
+**3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données**
 
 ![alt_text](https://i.ibb.co/2FjF85x/Capture-d-e-cran-2023-03-22-a-14-00-25.png)
  
