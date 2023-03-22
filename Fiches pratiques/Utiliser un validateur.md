@@ -2,7 +2,7 @@
 
 Un validateur vous permet de vous assurer de la correspondance de votre jeu de données à un standard (les champs et les valeurs contraintes sont respectées) et pointera les éventuelles erreurs. 
 
-Nous recommandons l’usage de Validata https://validata.fr, plateforme développée par l’association française OpenDataFrance. 
+Nous recommandons l’usage de [Validata](https://validata.fr), plateforme développée par l’association française OpenDataFrance. 
 
 ## **La marche à suivre :**
 
