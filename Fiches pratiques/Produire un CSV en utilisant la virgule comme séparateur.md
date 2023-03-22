@@ -82,7 +82,6 @@ Depuis votre logiciel, il suffit d’ « enregistrer sous » au format « te
 
 ![image](https://i.ibb.co/JdrjgkR/Capture-d-e-cran-2023-03-22-a-11-51-00.png)
 
-
 Puis de valider caractéristiques suivantes : 
 
 * Encodage (_character set_) : Unicode UTF-8 (ce codage est le plus usuel car compatible avec la norme ASCII) 
@@ -93,7 +92,7 @@ Puis de valider caractéristiques suivantes :
 
 Votre fichier est désormais un csv utilisant la virgule comme séparateur : l’idéal pour le partage de données ! 
 
-**2. Ouvrir un fichier CSV **
+**2. Ouvrir un fichier CSV**
 
 Lorsque vous ouvrez un fichier CSV dans LibreOffice, le logiciel vous propose de valider un ensemble de paramètres. 
 
@@ -108,7 +107,7 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 
 ### **<span style="text-decoration:underline;">Depuis Excel</span>**
 
-**3. Convertir un fichier (passer du séparateur point-virgule au séparateur virgule) **
+**3. Convertir un fichier (passer du séparateur point-virgule au séparateur virgule)**
 
 Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données apparaissent sur une seule colonne. Pas de panique, en quelques clics vous pouvez remettre votre jeu de données en ordre et vous assurer qu’il est enregistré au bon format.   
 
@@ -116,29 +115,29 @@ Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données appar
 
 ![alt_text](https://ibb.co/DMP3wY4"><img src="https://i.ibb.co/PWsB1Mx/Capture-d-e-cran-2023-03-22-a-11-59-52.png)
 
-**La solution : **
+**La solution :**
 
-* 1. Je sélectionne la colonne A 
+* **1. Je sélectionne la colonne A**
 
 ![alt_text](https://i.ibb.co/Qn88YLB/Capture-d-e-cran-2023-03-22-a-12-00-32.png)
 
-* 2. Dans l’onglet « Données », je clique sur l’icône « Convertir » 
+* **2. Dans l’onglet « Données », je clique sur l’icône « Convertir »** 
 
 ![alt_text](https://i.ibb.co/6wtt8Ym/Capture-d-e-cran-2023-03-22-a-12-01-20.png)
 
-* 3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant » 
+* **3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant »**
 
 ![alt_text](https://i.ibb.co/gWYp37L/Capture-d-e-cran-2023-03-22-a-12-01-58.png)
 
-* 4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ». 
+* **4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ».**
 
 ![alt_text](https://i.ibb.co/B2WRn83/Capture-d-e-cran-2023-03-22-a-12-02-39.png)
 
-* 5. Mes données sont réorganisées ! 
+* **5. Mes données sont réorganisées !**
 
 ![alt_text](https://i.ibb.co/1nb4kB9/Capture-d-e-cran-2023-03-22-a-12-03-18.png)
 
-* 6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ». 
+* **6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ».** 
 
 ![alt_text](https://i.ibb.co/vPPjZnN/Capture-d-e-cran-2023-03-22-a-12-04-09.png)
 
