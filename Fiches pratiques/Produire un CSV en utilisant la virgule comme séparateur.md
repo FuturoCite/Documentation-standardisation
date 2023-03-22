@@ -80,7 +80,7 @@ En tant que producteur de données, il faut donc vous assurer de travailler sur 
 
 Depuis votre logiciel, il suffit d’ « enregistrer sous » au format « text CSV (.csv) » 
 
-![image](https://ibb.co/cv2hVTc)
+![image](https://i.ibb.co/JdrjgkR/Capture-d-e-cran-2023-03-22-a-11-51-00.png)
 
 
 Puis de valider caractéristiques suivantes : 
