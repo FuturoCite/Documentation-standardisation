@@ -28,8 +28,8 @@ _OU_
 
 **→ Les principales étapes sont explicitées à travers des fiches pratiques portant sur :**
 
-* La production d’un fichier au format CSV (en utilisant la virgule en séparateur) 
-* Les principales étapes du nettoyage/de la transformation d’un jeu de données 
-* Le remplissage des champs techniques (codes INS, champs géographiques…) 
-* L’utilisation d’un validateur 
-* La production d’une documentation complète
+* [La production d’un fichier au format CSV (en utilisant la virgule en séparateur)](lien)
+* [Les principales étapes du nettoyage/de la transformation d’un jeu de données](lien)
+* [Le remplissage des champs techniques (codes INS, champs géographiques…)](lien)
+* [L’utilisation d’un validateur](lien)
+* [La production d’une documentation complète](lien)
