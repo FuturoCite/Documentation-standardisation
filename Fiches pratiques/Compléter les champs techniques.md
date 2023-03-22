@@ -13,7 +13,7 @@ Le code INS est l’identifiant unique de chaque commune belge.
 Il est facilement trouvable à partir du jeu de données « Codes des communes » de StatBel, téléchargeable depuis [cette page](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie)  
 
 
-![alt_text](https://i.ibb.co/B3dFcnx/Capture-d-e-cran-2023-03-22-a-13-55-31.png)
+![alt_text](https://i.ibb.co/B3dFcnx/Capture-d-e-cran-2023-03-22-a-13-55-31.png =200x300)
 
 
 Sur la même page du site de StatBel, il est également possible de télécharger le jeu « Codes des parties de communes (NIS6) », dans lequel se trouve le code INS d’une partie de commune. 
