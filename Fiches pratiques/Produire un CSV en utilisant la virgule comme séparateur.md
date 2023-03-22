@@ -116,27 +116,27 @@ Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données appar
 
 **La solution :**
 
-**1. Je sélectionne la colonne A**
+> **1. Je sélectionne la colonne A**
 
 ![alt_text](https://i.ibb.co/Qn88YLB/Capture-d-e-cran-2023-03-22-a-12-00-32.png)
 
-**2. Dans l’onglet « Données », je clique sur l’icône « Convertir »** 
+> **2. Dans l’onglet « Données », je clique sur l’icône « Convertir »** 
 
 ![alt_text](https://i.ibb.co/6wtt8Ym/Capture-d-e-cran-2023-03-22-a-12-01-20.png)
 
-**3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant »**
+> **3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant »**
 
 ![alt_text](https://i.ibb.co/gWYp37L/Capture-d-e-cran-2023-03-22-a-12-01-58.png)
 
-**4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ».**
+> **4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ».**
 
 ![alt_text](https://i.ibb.co/B2WRn83/Capture-d-e-cran-2023-03-22-a-12-02-39.png)
 
-**5. Mes données sont réorganisées !**
+> **5. Mes données sont réorganisées !**
 
 ![alt_text](https://i.ibb.co/1nb4kB9/Capture-d-e-cran-2023-03-22-a-12-03-18.png)
 
-**6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ».** 
+> **6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ».** 
 
 ![alt_text](https://i.ibb.co/vPPjZnN/Capture-d-e-cran-2023-03-22-a-12-04-09.png)
 
