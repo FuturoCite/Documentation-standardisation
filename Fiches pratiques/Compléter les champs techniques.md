@@ -45,18 +45,18 @@ La valeur bien formatée se présente ainsi :
 
 Pour obtenir cette valeur à partir d’un fichier GPX, il faut suivre **une procédure en 3 étapes** :  
 
-**1. Convertir le fichier GPX en GeoJSON, en utilisant** :  [https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/](https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/)  (il est possible de convertir plusieurs fichiers d’un coup). **Ne pas tenir compte du message d’erreur**. 
+   **1. Convertir le fichier GPX en GeoJSON, en utilisant** :  [https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/](https://samgoeta.shinyapps.io/gpxGeoJSONLinestring/)  (il est possible de convertir plusieurs fichiers d’un coup). **Ne pas tenir compte du message d’erreur**. 
 
 
 ![alt_text](https://i.ibb.co/Ht2rNzG/Capture-d-e-cran-2023-03-22-a-13-58-33.png)
 
-**2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)**
+   **2. Importer ce fichier GeoJSON dans un portail OpenDataSoft (ODWB)**
 
 (Nouveau jeu de donnée → Récupérer un fichier depuis mon ordinateur) 
 
 ![alt_text](https://i.ibb.co/p3WNrxh/Capture-d-e-cran-2023-03-22-a-13-59-40.png)
 
-**3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données**
+   **3. Copier/coller la valeur du champ Geo Shape dans le champ "geometry" de son jeu de données**
 
 ![alt_text](https://i.ibb.co/2FjF85x/Capture-d-e-cran-2023-03-22-a-14-00-25.png)
  
