@@ -1,6 +1,4 @@
 ## Produire et publier un jeu de données standardisé : la marche à suivre en bref 
-<span style="background-color: #FFFF00"><mark>Marked text</mark>
-</span>
 
 **1. Je crée un nouveau jeu de données :**
 
