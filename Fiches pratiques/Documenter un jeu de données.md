@@ -10,10 +10,10 @@ Une documentation complète favorise par ailleurs la découvrabilité des donné
 
 
 
-_**Nous recommandons deux choses, en plus de la complétion des métadonnées de base :**_
-
-* **La description des champs du jeu de données**
-* **L’utilisation de la méthode [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)** (dans la mesure des informations à disposition du producteur de données) 
+>_**Nous recommandons deux choses, en plus de la complétion des métadonnées de base :**_
+>
+>* **La description des champs du jeu de données**
+>* **L’utilisation de la méthode [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)** (dans la mesure des informations à disposition du producteur de données) 
 
 Constatant le manque d’exhaustivité et d’harmonisation dans la documentation des jeux de données servant à l'entraînement des modèles d’intelligence artificielles, les autrices de l’article _Datasheets for Datasets_[1] proposent aux producteurs de données de renseigner une « fiche technique » comportant 7 parties : 
 * Motivations pour la création du jeu de données
