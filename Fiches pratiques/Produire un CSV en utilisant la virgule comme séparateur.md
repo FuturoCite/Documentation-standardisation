@@ -2,8 +2,7 @@
 
 Les fichiers CSV (comma-separated values) permettent de voir vos données dans une variété d'applications : LibreOffice, Microsoft Excel, Numbers, Google sheets, etc.
 
-Il s’agit d’un **format texte ouvert représentant des données tabulaires,** sous forme de valeurs séparées par des virgules (ou points virgules). 
-
+Il s’agit d’un **format texte ouvert représentant des données tabulaires,** sous forme de valeurs séparées par des virgules (ou points virgules). 
 
 <table>
   <tr>
