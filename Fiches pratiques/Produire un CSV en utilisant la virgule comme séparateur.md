@@ -104,36 +104,35 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 
 ![alt_text](https://i.ibb.co/zZyGL7K/Capture-d-e-cran-2023-03-22-a-11-59-02.png)
 
-
 ## **<span style="text-decoration:underline;">Depuis Excel</span>**
 
 ### **Convertir un fichier (passer du séparateur point-virgule au séparateur virgule)**
 
 Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données apparaissent sur une seule colonne. Pas de panique, en quelques clics vous pouvez remettre votre jeu de données en ordre et vous assurer qu’il est enregistré au bon format.   
 
-**La situation de départ : toutes les valeurs d’une ligne sont dans la même colonne **(la virgule n’est donc pas considérée comme le séparateur)**     **
+**La situation de départ : toutes les valeurs d’une ligne sont dans la même colonne **(la virgule n’est donc pas considérée comme le séparateur)**
 
-![alt_text](https://ibb.co/DMP3wY4"><img src="https://i.ibb.co/PWsB1Mx/Capture-d-e-cran-2023-03-22-a-11-59-52.png)
+![alt_text](https://i.ibb.co/PWsB1Mx/Capture-d-e-cran-2023-03-22-a-11-59-52.png)
 
 **La solution :**
 
-* **1. Je sélectionne la colonne A**
+**1. Je sélectionne la colonne A**
 
 ![alt_text](https://i.ibb.co/Qn88YLB/Capture-d-e-cran-2023-03-22-a-12-00-32.png)
 
-* **2. Dans l’onglet « Données », je clique sur l’icône « Convertir »** 
+**2. Dans l’onglet « Données », je clique sur l’icône « Convertir »** 
 
 ![alt_text](https://i.ibb.co/6wtt8Ym/Capture-d-e-cran-2023-03-22-a-12-01-20.png)
 
-* **3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant »**
+**3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant »**
 
 ![alt_text](https://i.ibb.co/gWYp37L/Capture-d-e-cran-2023-03-22-a-12-01-58.png)
 
-* **4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ».**
+**4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ».**
 
 ![alt_text](https://i.ibb.co/B2WRn83/Capture-d-e-cran-2023-03-22-a-12-02-39.png)
 
-* **5. Mes données sont réorganisées !**
+**5. Mes données sont réorganisées !**
 
 ![alt_text](https://i.ibb.co/1nb4kB9/Capture-d-e-cran-2023-03-22-a-12-03-18.png)
 
@@ -141,4 +140,4 @@ Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données appar
 
 ![alt_text](https://i.ibb.co/vPPjZnN/Capture-d-e-cran-2023-03-22-a-12-04-09.png)
 
-→ Dans le (rare) cas où votre version d’Excel ne permettra pas l’enregistrement du fichier sous la bonne norme, il faudra basculer vers un autre outil (si vous ne pouvez pas télécharger LibreOffice, GoogleSheet vous permet de travailler en ligne). 
+_→ Dans le (rare) cas où votre version d’Excel ne permettra pas l’enregistrement du fichier sous la bonne norme, il faudra basculer vers un autre outil (si vous ne pouvez pas télécharger LibreOffice, GoogleSheet vous permet de travailler en ligne)._
