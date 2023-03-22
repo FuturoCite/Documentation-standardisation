@@ -1,4 +1,4 @@
-## **Produire un CSV en utilisant la virgule comme séparateur**
+# **Produire un CSV en utilisant la virgule comme séparateur**
 
 Les fichiers CSV (comma-separated values) permettent de voir vos données dans une variété d'applications : LibreOffice, Microsoft Excel, Numbers, Google sheets, etc.
 
@@ -72,11 +72,11 @@ Les colonnes peuvent être séparées par des points-virgules ou des virgules. S
 
 En tant que producteur de données, il faut donc vous assurer de travailler sur (puis de publier) un jeu de données utilisant la bonne norme. 
 
-### **<span style="text-decoration:underline;">Sur LibreOffice</span>**
+## **<span style="text-decoration:underline;">Sur LibreOffice</span>**
 
 (LibreOffice est le logiciel minimisant les erreurs dans un CSV) 
 
-**1. Enregistrer un fichier au format CSV  (depuis LibreOffice)**
+### **1. Enregistrer un fichier au format CSV  (depuis LibreOffice)**
 
 Depuis votre logiciel, il suffit d’ « enregistrer sous » au format « text CSV (.csv) » 
 
@@ -92,7 +92,7 @@ Puis de valider caractéristiques suivantes :
 
 Votre fichier est désormais un csv utilisant la virgule comme séparateur : l’idéal pour le partage de données ! 
 
-**2. Ouvrir un fichier CSV**
+### **2. Ouvrir un fichier CSV**
 
 Lorsque vous ouvrez un fichier CSV dans LibreOffice, le logiciel vous propose de valider un ensemble de paramètres. 
 
@@ -105,9 +105,9 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 ![alt_text](https://i.ibb.co/zZyGL7K/Capture-d-e-cran-2023-03-22-a-11-59-02.png)
 
 
-### **<span style="text-decoration:underline;">Depuis Excel</span>**
+## **<span style="text-decoration:underline;">Depuis Excel</span>**
 
-**3. Convertir un fichier (passer du séparateur point-virgule au séparateur virgule)**
+### **Convertir un fichier (passer du séparateur point-virgule au séparateur virgule)**
 
 Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données apparaissent sur une seule colonne. Pas de panique, en quelques clics vous pouvez remettre votre jeu de données en ordre et vous assurer qu’il est enregistré au bon format.   
 
