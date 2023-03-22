@@ -36,9 +36,9 @@ Conserver la source a plusieurs avantages :
 
 Que vous utilisiez LibreOffice, Excel ou Google sheet, nous vous conseillons **de vous servir de la fonctionnalité "onglets",** qui permet de réunir plusieurs feuilles dans un même document. Nous allons procéder en trois étapes :
 
-1. renommer l'onglet principal **source** ;
-2. dupliquer cet onglet pour créer une feuille de travail ;
-3. réunir les informations sur la base dans un onglet dédié, **metadata**, avec trois infos :
+> 1. renommer l'onglet principal **source** ;
+> 2. dupliquer cet onglet pour créer une feuille de travail ;
+> 3. réunir les informations sur la base dans un onglet dédié, **metadata**, avec trois infos :
     * _nom_ de la source ;
     * _lien_ de téléchargement ;
     * _date_ de téléchargement.
@@ -55,7 +55,6 @@ Pour des jeux de données qui ne possèdent pas de standard, il existe peut-êtr
 
 Dans tous les cas, il sera utile, **dans la documentation, de préciser à quoi correspond chaque têtière**.
 
-
 ### 3. **Un outil pour aider au nettoyage des données : Open Refine**
 
 LibreOffice, Excel et Google sheet ont des fonctionnalités pour aider au nettoyer de données : filtres, trouver/remplacer, scinder une colonne (fonction _split_), compiler des données… ([de nombreuses expressions régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re) sont à votre disposition). 
@@ -68,7 +67,7 @@ LibreOffice, Excel et Google sheet ont des fonctionnalités pour aider au nettoy
 * Regrouper des valeurs proches (clusterisation)
 * Suivre l’historique des modifications (ce qui permet de reproduire facilement les manipulations effectuées)  
 
-De nombreux tutoriels sont accessibles en ligne, parmi lesquels : 
-* _Une vidéo : **[OpenRefine, "Excel aux hormones" pour nettoyage de données](https://www.patrimoine-et-numerique.fr/tutoriels/52-36-openrefine-excel-aux-hormones-pour-nettoyage-de-donnees)**_
-* _Le tuto de Thomas Padilla (anglais) : **[Getting Started with OpenRefine](https://www.thomaspadilla.org/dataprep/)**_
-* _Celui de Mathieu Saby (français) : **[Tutoriel OpenRefine](https://msaby.gitlab.io/tutoriel-openrefine/index.html)**_
+> De nombreux tutoriels sont accessibles en ligne, parmi lesquels : 
+> * _Une vidéo : **[OpenRefine, "Excel aux hormones" pour nettoyage de données](https://www.patrimoine-et-numerique.fr/tutoriels/52-36-openrefine-excel-aux-hormones-pour-nettoyage-de-donnees)**_
+> * _Le tuto de Thomas Padilla (anglais) : **[Getting Started with OpenRefine](https://www.thomaspadilla.org/dataprep/)**_
+> * _Celui de Mathieu Saby (français) : **[Tutoriel OpenRefine](https://msaby.gitlab.io/tutoriel-openrefine/index.html)**_
