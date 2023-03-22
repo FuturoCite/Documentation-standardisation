@@ -1,4 +1,4 @@
-### **Nettoyer ses données**
+## **Nettoyer ses données**
 
 Que ce soit pour des raisons techniques ou organisationnelles, il arrive que les données fournies en format tabulaire ou scrapées soient jugées "sales". Une donnée est jugée sale quand son format gêne son utilisation, que ce soit par un humain ou par une machine.
 
@@ -21,7 +21,7 @@ Par opposition, une donnée est propre lorsque :
 3. Les données sont-elles lues correctement par ma machine ?
 4. Est-ce que je peux les réutiliser (effectuer des calculs…) ?
 
-    **Quelques conseils**
+### **Quelques conseils**
 
 Voici trois bonnes pratiques concernant le nettoyage des données. 
 
