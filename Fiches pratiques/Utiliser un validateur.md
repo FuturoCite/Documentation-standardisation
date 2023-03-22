@@ -6,7 +6,7 @@ Nous recommandons l’usage de Validata https://validata.fr, plateforme dévelop
 
 ## **La marche à suivre :**
 
-**1. Dans « Schéma à la carte », en bas de la page, je mets le lien vers le standard FuturoCité et clique sur « Valider un fichier ».**
+### **1. Dans « Schéma à la carte », en bas de la page, je mets le lien vers le standard FuturoCité et clique sur « Valider un fichier ».**
 
 ![alt_text](https://i.ibb.co/y5JpyQ3/Capture-d-e-cran-2023-03-22-a-12-20-14.png)
 
@@ -23,11 +23,11 @@ Voici les liens pour rappel, vous n’avez qu’à les copier-coller :
 
 ![alt_text](https://i.ibb.co/TYBVsYQ/Capture-d-e-cran-2023-03-22-a-12-21-50.png)
 
-**2. J’importe mon fichier CSV (depuis mon ordinateur ou depuis une URL) et je clique sur « Valider le fichier »**
+### **2. J’importe mon fichier CSV (depuis mon ordinateur ou depuis une URL) et je clique sur « Valider le fichier »**
 
 ![alt_text](https://i.ibb.co/kcDSPDC/Capture-d-e-cran-2023-03-22-a-12-22-49.png)
 
-### **→ Si mon fichier est validé** 
+### **→ Si mon fichier est valide** 
 Félicitations ! Je m’assure que mon fichier est correctement nommé et je peux le publier sur ODWB (sans oublier de le documenter !) 
 
 ![alt_text](https://i.ibb.co/PNh4Bm4/Capture-d-e-cran-2023-03-22-a-12-24-01.png)
