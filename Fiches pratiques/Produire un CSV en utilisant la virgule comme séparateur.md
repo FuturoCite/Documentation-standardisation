@@ -1,4 +1,4 @@
-### **Produire un CSV en utilisant la virgule comme séparateur**
+## **Produire un CSV en utilisant la virgule comme séparateur**
 
 Les fichiers CSV (comma-separated values) permettent de voir vos données dans une variété d'applications : LibreOffice, Microsoft Excel, Numbers, Google sheets, etc.
 
@@ -75,7 +75,7 @@ Les colonnes peuvent être séparées par des points-virgules ou des virgules. S
 
 En tant que producteur de données, il faut donc vous assurer de travailler sur (puis de publier) un jeu de données utilisant la bonne norme. 
 
-**<span style="text-decoration:underline;">Sur LibreOffice</span>**
+### **<span style="text-decoration:underline;">Sur LibreOffice</span>**
 
 (LibreOffice est le logiciel minimisant les erreurs dans un CSV) 
 
@@ -132,7 +132,7 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 
 
 
-    **<span style="text-decoration:underline;">Depuis Excel</span>**
+### **<span style="text-decoration:underline;">Depuis Excel</span>**
 
 **3. Convertir un fichier (passer du séparateur point-virgule au séparateur virgule) **
 
