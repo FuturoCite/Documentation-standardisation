@@ -67,4 +67,5 @@ Si la donnée est introuvable/inexistante et que mon jeu de données est par ail
 → En fonction de mon patrimoine de données, j’ai intégré des champs supplémentaires. Le non-respect du standard est donc volontaire. Mais afin de faciliter l’agrégation de plusieurs jeux de données par un réutilisateur il est recommandé de publier deux jeux de données : 
 * Un jeu de données standardisé, s’en tenant aux champs du standard (il est possible de supprimer des colonnes d’un jeu de données enrichi grâce à un processeur OpenDataSoft)
 * Un jeu de données enrichi, intégrant des champs supplémentaires 
+
 Cette double publication assure de ne pas faire reposer de travail supplémentaire sur le réutilisateur : il n’a pas à retravailler le jeu de données afin de supprimer les champs en trop en vue de les agréger avec d’autres.  
