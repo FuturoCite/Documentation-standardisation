@@ -4,16 +4,16 @@ Avant de publier son jeu de données sur un portail open data, il est essentiel 
 
 La « bonne » documentation ne s’arrête pas aux métadonnées essentielles (nom du producteur de données, date de mise à jour, etc.). 
 
-**Les compléter par des informations sur la composition du jeu de données (explicitation de chaque champ), sur les raisons et les conditions de collecte des données, ou encore sur les éventuels traitements dont elles ont fait l’objet permet au réutilisateur de comprendre ce que contient le jeu de données et ses éventuels biais. **
+**Les compléter par des informations sur la composition du jeu de données (explicitation de chaque champ), sur les raisons et les conditions de collecte des données, ou encore sur les éventuels traitements dont elles ont fait l’objet permet au réutilisateur de comprendre ce que contient le jeu de données et ses éventuels biais.**
 
 Une documentation complète favorise par ailleurs la découvrabilité des données, c’est-à-dire rend plus aisé pour le réutilisateur de trouver le jeu de données recherché.  
 
 Nous recommandons deux choses, en plus de la complétion des métadonnées de base : 
 
-* **La description des champs du jeu de données **
+* **La description des champs du jeu de données**
 * **L’utilisation de la méthode [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)** (dans la mesure des informations à disposition du producteur de données) 
 
-Constatant le manque d’exhaustivité et d’harmonisation dans la documentation des jeux de données servant à l'entraînement des modèles d’intelligence artificielles, les autrices de l’article _Datasheets for Datasets_[^1] proposent aux producteurs de données de renseigner une « fiche technique » comportant 7 parties : 
+Constatant le manque d’exhaustivité et d’harmonisation dans la documentation des jeux de données servant à l'entraînement des modèles d’intelligence artificielles, les autrices de l’article _Datasheets for Datasets_[1] proposent aux producteurs de données de renseigner une « fiche technique » comportant 7 parties : 
 * Motivations pour la création du jeu de données
 * Composition du jeu de données
 * Processus de collecte des données
@@ -22,11 +22,12 @@ Constatant le manque d’exhaustivité et d’harmonisation dans la documentatio
 * Maintenance du jeu de données
 * Considérations légales et éthiques
 
+[1]Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). Datasheets for datasets. Communications of the ACM, 64(12), 86-92.
 
 ![alt_text](https://i.ibb.co/gZkmbtT/Capture-d-e-cran-2023-03-22-a-14-08-29.png)
 
 
-**[Une traduction en français a été réalisée par Samuel Goëta](https://teamopendata.org/t/traduction-et-adaptation-du-modele-de-description-des-donnees-datasheet-for-datasets/1400) : **
+**[Une traduction en français a été réalisée par Samuel Goëta](https://teamopendata.org/t/traduction-et-adaptation-du-modele-de-description-des-donnees-datasheet-for-datasets/1400) :**
 
 **Motivations pour la création du jeu de données**
 
