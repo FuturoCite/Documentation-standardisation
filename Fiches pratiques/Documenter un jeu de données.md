@@ -8,6 +8,8 @@ La « bonne » documentation ne s’arrête pas aux métadonnées essentielles
 
 Une documentation complète favorise par ailleurs la découvrabilité des données, c’est-à-dire rend plus aisé pour le réutilisateur de trouver le jeu de données recherché.  
 
+
+
 _**Nous recommandons deux choses, en plus de la complétion des métadonnées de base :**_
 
 * **La description des champs du jeu de données**
