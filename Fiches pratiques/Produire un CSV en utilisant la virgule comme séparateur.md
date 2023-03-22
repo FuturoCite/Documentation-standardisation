@@ -89,8 +89,7 @@ Puis de valider caractéristiques suivantes :
 * Séparateur de champ (_field delimiter_) : virgule (,)
 * Identificateur de texte (_string delimiter_) : guillemets (“)
 
-![alt_text](https://i.ibb.co/JdrjgkR/Capture-d-e-cran-2023-03-22-a-11-51-00.png" alt="Capture-d-e-cran-2023-03-22-a-11-51-00)
-
+![alt_text](https://i.ibb.co/JdrjgkR/Capture-d-e-cran-2023-03-22-a-11-51-00.png)
 
 Votre fichier est désormais un csv utilisant la virgule comme séparateur : l’idéal pour le partage de données ! 
 
