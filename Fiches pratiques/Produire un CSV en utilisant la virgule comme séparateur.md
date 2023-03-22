@@ -136,7 +136,7 @@ Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données appar
 
 ![alt_text](https://i.ibb.co/1nb4kB9/Capture-d-e-cran-2023-03-22-a-12-03-18.png)
 
-* **6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ».** 
+**6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ».** 
 
 ![alt_text](https://i.ibb.co/vPPjZnN/Capture-d-e-cran-2023-03-22-a-12-04-09.png)
 
