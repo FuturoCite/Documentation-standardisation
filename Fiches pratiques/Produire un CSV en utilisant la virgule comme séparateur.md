@@ -89,11 +89,7 @@ Puis de valider caractéristiques suivantes :
 * Séparateur de champ (_field delimiter_) : virgule (,)
 * Identificateur de texte (_string delimiter_) : guillemets (“)
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](https://i.ibb.co/JdrjgkR/Capture-d-e-cran-2023-03-22-a-11-51-00.png" alt="Capture-d-e-cran-2023-03-22-a-11-51-00)
 
 
 Votre fichier est désormais un csv utilisant la virgule comme séparateur : l’idéal pour le partage de données ! 
@@ -108,10 +104,7 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 * Séparateur de champ (_separated by_) : virgule (,)
 * Identificateur de texte (_string delimiter_) : guillemets (“)
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](https://i.ibb.co/zZyGL7K/Capture-d-e-cran-2023-03-22-a-11-59-02.png)
 
 
 ### **<span style="text-decoration:underline;">Depuis Excel</span>**
@@ -122,49 +115,32 @@ Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données appar
 
 **La situation de départ : toutes les valeurs d’une ligne sont dans la même colonne **(la virgule n’est donc pas considérée comme le séparateur)**     **
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image4.png "image_tooltip")
-
+![alt_text](https://ibb.co/DMP3wY4"><img src="https://i.ibb.co/PWsB1Mx/Capture-d-e-cran-2023-03-22-a-11-59-52.png)
 
 **La solution : **
 
 * 1. Je sélectionne la colonne A 
+
+![alt_text](https://i.ibb.co/Qn88YLB/Capture-d-e-cran-2023-03-22-a-12-00-32.png)
+
 * 2. Dans l’onglet « Données », je clique sur l’icône « Convertir » 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](https://i.ibb.co/6wtt8Ym/Capture-d-e-cran-2023-03-22-a-12-01-20.png)
 
 * 3. Je m’assure que mes données sont de type « Délimité » et je clique sur « Suivant » 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](https://i.ibb.co/gWYp37L/Capture-d-e-cran-2023-03-22-a-12-01-58.png)
 
 * 4. Je choisis comme séparateur/délimiteur « Virgule », et je m’assure que l’identificateur de texte est le guillemet. Je clique sur « Fin ». 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](https://i.ibb.co/B2WRn83/Capture-d-e-cran-2023-03-22-a-12-02-39.png)
 
 * 5. Mes données sont réorganisées ! 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
+![alt_text](https://i.ibb.co/1nb4kB9/Capture-d-e-cran-2023-03-22-a-12-03-18.png)
 
 * 6. Je n’ai plus qu’à enregistrer le fichier au format « CSV UTF-8 ». 
 
+![alt_text](https://i.ibb.co/vPPjZnN/Capture-d-e-cran-2023-03-22-a-12-04-09.png)
+
 → Dans le (rare) cas où votre version d’Excel ne permettra pas l’enregistrement du fichier sous la bonne norme, il faudra basculer vers un autre outil (si vous ne pouvez pas télécharger LibreOffice, GoogleSheet vous permet de travailler en ligne). 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
