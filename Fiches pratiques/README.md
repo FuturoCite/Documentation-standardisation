@@ -8,7 +8,7 @@
 * Documenter 
 * Publier 
 
-_OU _
+_OU_
 
 
 * Exporter un jeu de données à partir d’un outil métier (préalablement paramétré pour assurer une correspondance avec un standard de données) 
