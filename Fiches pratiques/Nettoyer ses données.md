@@ -1,4 +1,4 @@
-## **Nettoyer ses données**
+# **Nettoyer ses données**
 
 Que ce soit pour des raisons techniques ou organisationnelles, il arrive que les données fournies en format tabulaire ou scrapées soient jugées "sales". Une donnée est jugée sale quand son format gêne son utilisation, que ce soit par un humain ou par une machine.
 
@@ -21,11 +21,11 @@ Par opposition, une donnée est propre lorsque :
 3. Les données sont-elles lues correctement par ma machine ?
 4. Est-ce que je peux les réutiliser (effectuer des calculs…) ?
 
-### **Quelques conseils**
+## **Quelques conseils**
 
 Voici trois bonnes pratiques concernant le nettoyage des données. 
 
-1. **Conserver la source :**
+### 1. **Conserver la source :**
 
 Le nettoyage n'est pas une opération anodine : **vous allez modifier en profondeur votre base de données suivant vos critères dans le cadre d'une analyse spécifique**. De telle manière que les producteur·rices de la base, d'autres utilisateurs ou vous-même dans un futur proche ne seriez pas capable de reconnaître le fichier !
 
@@ -42,11 +42,12 @@ Que vous utilisiez LibreOffice, Excel ou Google sheet, nous vous conseillons **d
     * _nom_ de la source ;
     * _lien_ de téléchargement ;
     * _date_ de téléchargement.
+
 ![alt_text](https://i.ibb.co/r0dNVPR/Capture-d-e-cran-2023-03-22-a-12-10-54.png)
 
 Au moment de la publication des données, vous ne partagerez bien sûr pas cet onglet, mais l’avoir créé vous permettra de ne pas perdre localement votre source de données !  
 
-2. **Comprendre les données**
+### 2. **Comprendre les données**
 
 Dans votre tableur, renommer le fichier et les têtières est essentiel pour **correspondre à un standard de données,** et plus largement pour qu’il soit compris et réutilisé par le plus grand nombre. 
 
@@ -55,7 +56,7 @@ Pour des jeux de données qui ne possèdent pas de standard, il existe peut-êtr
 Dans tous les cas, il sera utile, **dans la documentation, de préciser à quoi correspond chaque têtière**.
 
 
-3. **Un outil pour aider au nettoyage des données : Open Refine**
+### 3. **Un outil pour aider au nettoyage des données : Open Refine**
 
 LibreOffice, Excel et Google sheet ont des fonctionnalités pour aider au nettoyer de données : filtres, trouver/remplacer, scinder une colonne (fonction _split_), compiler des données… ([de nombreuses expressions régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re) sont à votre disposition). 
 
