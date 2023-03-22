@@ -46,13 +46,13 @@ En dessous, les valeurs posant problème apparaissent en rouge.
 
 _**Quatre principaux types d’erreurs :**_
 
-> **1. Il manque des champs/colonnes :**
+>**1. Il manque des champs/colonnes :**
 
 → Il faut les ajouter, même si leur remplissage n’est pas obligatoire, et les laisser vides si on n’est pas en mesure de les renseigner. 
 
 Par exemple : dans les standards conçus par FuturoCité vous pouvez laisser vide le “Code rue national”, mais une colonne doit tout de même figurer dans votre jeu de données. 
 
-> **2. Des valeurs obligatoires sont manquantes**
+>**2. Des valeurs obligatoires sont manquantes**
 
 → Dans la mesure du possible, je complète le jeu de données à partir de sources externes (voir la fiche “Compléter les champs techniques” pour quelques exemples). 
 
