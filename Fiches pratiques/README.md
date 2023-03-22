@@ -1,6 +1,6 @@
 ## Produire et publier un jeu de données standardisé : la marche à suivre en bref 
 
-**1. Je crée un nouveau jeu de données : **
+**1. Je crée un nouveau jeu de données :**
 
 * Importer le gabarit dans son espace de travail  
 * Renseigner les données à partir des différentes sources à disposition 
@@ -16,7 +16,7 @@ _OU_
 * Documenter 
 * Publier 
 
-**2. Je transforme un jeu de données pour me conformer à un standard : **
+**2. Je transforme un jeu de données pour me conformer à un standard :**
 
 * Comparer son jeu de données aux attendus du standard à partir d’un outil de diagnostic : il vous permet d’objectiver le travail à faire, en identifiant notamment les sources de données à mobiliser
 * Importer son jeu de données source dans un onglet google Sheet/LibreOffice (outils recommandés car minimisant les erreurs dans un CSV) ou Excel
@@ -26,7 +26,7 @@ _OU_
 * Documenter 
 * Publier 
 
-**→ Les principales étapes sont explicitées à travers des fiches pratiques portant sur :  **
+**→ Les principales étapes sont explicitées à travers des fiches pratiques portant sur :**
 
 * La production d’un fichier au format CSV (en utilisant la virgule en séparateur) 
 * Les principales étapes du nettoyage/de la transformation d’un jeu de données 
