@@ -49,19 +49,16 @@ En dessous, les valeurs posant problème apparaissent en rouge.
 **1. Il manque des champs/colonnes :**
 
 → Il faut les ajouter, même si leur remplissage n’est pas obligatoire, et les laisser vides si on n’est pas en mesure de les renseigner. 
-
 Par exemple : dans les standards conçus par FuturoCité vous pouvez laisser vide le “Code rue national”, mais une colonne doit tout de même figurer dans votre jeu de données. 
 
 **2. Des valeurs obligatoires sont manquantes**
 
 → Dans la mesure du possible, je complète le jeu de données à partir de sources externes (voir la fiche “Compléter les champs techniques” pour quelques exemples). 
-
 Si la donnée est introuvable/inexistante et que mon jeu de données est par ailleurs conforme au schéma, je le publie.  
 
 **3. Les valeurs sont erronées :**
 
 → S’assurer d’avoir bien suivi les spécifications du standard, concernant notamment : 
-
 * Le format des dates (année-mois-jour) et des coordonnées   
 * Les valeurs contraintes : elles doivent être bien orthographiées (y compris accents et majuscules), sans espace supplémentaire ("vélo" ≠ "velo ") 
 
@@ -70,5 +67,4 @@ Si la donnée est introuvable/inexistante et que mon jeu de données est par ail
 → En fonction de mon patrimoine de données, j’ai intégré des champs supplémentaires. Le non-respect du standard est donc volontaire. Mais afin de faciliter l’agrégation de plusieurs jeux de données par un réutilisateur il est recommandé de publier deux jeux de données : 
 * Un jeu de données standardisé, s’en tenant aux champs du standard (il est possible de supprimer des colonnes d’un jeu de données enrichi grâce à un processeur OpenDataSoft)
 * Un jeu de données enrichi, intégrant des champs supplémentaires 
-
 Cette double publication assure de ne pas faire reposer de travail supplémentaire sur le réutilisateur : il n’a pas à retravailler le jeu de données afin de supprimer les champs en trop en vue de les agréger avec d’autres.  
