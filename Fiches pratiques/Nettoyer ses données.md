@@ -39,9 +39,9 @@ Que vous utilisiez LibreOffice, Excel ou Google sheet, nous vous conseillons **d
 > 1. renommer l'onglet principal **source** ;
 > 2. dupliquer cet onglet pour créer une feuille de travail ;
 > 3. réunir les informations sur la base dans un onglet dédié, **metadata**, avec trois infos :
-    * _nom_ de la source ;
-    * _lien_ de téléchargement ;
-    * _date_ de téléchargement.
+   > * _nom_ de la source ;
+   > * _lien_ de téléchargement ;
+   > * _date_ de téléchargement.
 
 ![alt_text](https://i.ibb.co/r0dNVPR/Capture-d-e-cran-2023-03-22-a-12-10-54.png)
 
