@@ -110,7 +110,7 @@ Comme pour enregistrer un nouveau fichier CSV, assurer vous de valider :
 
 Si vous utilisez Excel plutôt que LibreOffice, il arrive que les données apparaissent sur une seule colonne. Pas de panique, en quelques clics vous pouvez remettre votre jeu de données en ordre et vous assurer qu’il est enregistré au bon format.   
 
-**La situation de départ : toutes les valeurs d’une ligne sont dans la même colonne **(la virgule n’est donc pas considérée comme le séparateur)**
+**La situation de départ : toutes les valeurs d’une ligne sont dans la même colonne (la virgule n’est donc pas considérée comme le séparateur)**
 
 ![alt_text](https://i.ibb.co/PWsB1Mx/Capture-d-e-cran-2023-03-22-a-11-59-52.png)
 
