@@ -36,7 +36,7 @@ Constatant la production de jeux de données disparates à l'échelle de la féd
 * de s'accorder sur des spécifications des modèles de données. 
 La standardisation de ces données prioritaires est en effet essentielles pour s'assurer de leur publication homogène et de faciliter leur exploitation (notamment leur agrégation) par les réutilisateurs. Elle facilitent l'exploitation des données publiées par les réutilisateurs (agrégation, consolidation et traitements automatiques).
 
-## Cinq schémas de données à disposition 
+## Six schémas de données à disposition 
 
 La standardisation des données ouvertes s’articule autour de schémas. Ces derniers sont des standards lisibles par des machines, des conventions qui décrivent les champs et les valeurs admises dans un jeu de données conforme à ses préconisations. C’est donc en s’y conformant que nous produisons des jeux de données standardisés. Compréhensibles par les machines, les schémas sont réexploités dans des formulaires et des interfaces à destination des humains. 
 
@@ -48,6 +48,7 @@ Cinq schémas sont actuellement disponibles :
 * [les équipements collectifs](http://www.futurocite.be/schema-des-equipements-collectifs/) 
 * [les stationnements vélos](https://www.futurocite.be/schema-des-stationnements-velos/)
 * [les travaux de voiries](http://www.futurocite.be/schema-des-travaux-de-voirie/) 
+* [les marchés](http://www.futurocite.be/schema-des-marches/) 
 
 
 # La standardisation concrètement 
