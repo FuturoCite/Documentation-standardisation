@@ -16,7 +16,7 @@ Voici les liens pour rappel, vous n’avez qu’à les copier-coller :
 * Circuits touristiques : [https://raw.githubusercontent.com/FuturoCite/standard-circuits-touristiques/main/schema.json](https://raw.githubusercontent.com/FuturoCite/standard-circuits-touristiques/main/schema.json) 
 * Travaux de voirie : [https://raw.githubusercontent.com/FuturoCite/standard-travaux-voiries/main/schema.json](https://raw.githubusercontent.com/FuturoCite/standard-travaux-voiries/main/schema.json) 
 * Stationnements vélo : [https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/schema.json](https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/schema.json) 
-* Marchés : https://raw.githubusercontent.com/FuturoCite/standard-marches/main/schema.json (https://raw.githubusercontent.com/FuturoCite/standard-marches/main/schema.json)
+* Marchés : https://raw.githubusercontent.com/FuturoCite/standard-marches/main/schema.json
 
 (Pour information, ces liens sont des uri. Elles se trouvent dans les fichiers tableschema, auxquels vous pouvez accéder depuis le site de FuturoCité [http://www.futurocite.be/standardiser-les-donnees-ouvertes/](http://www.futurocite.be/standardiser-les-donnees-ouvertes/) 
 
