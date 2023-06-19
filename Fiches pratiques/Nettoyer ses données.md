@@ -57,7 +57,7 @@ Dans tous les cas, il sera utile, **dans la documentation, de préciser à quoi 
 
 ### 3. **Un outil pour aider au nettoyage des données : Open Refine**
 
-LibreOffice, Excel et Google sheet ont des fonctionnalités pour aider au nettoyer de données : filtres, trouver/remplacer, scinder une colonne (fonction _split_), compiler des données… ([de nombreuses expressions régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re) sont à votre disposition). 
+LibreOffice, Excel et Google sheet ont des fonctionnalités pour aider au nettoyage de données : filtres, trouver/remplacer, scinder une colonne (fonction _split_), compiler des données… ([de nombreuses expressions régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re) sont à votre disposition). 
 
 **L’outil gratuit et open source Open Refine** offre cependant d’autres fonctionnalités. En plus de trier et gérer les doublons (de la même façon que LibreOffice, Excel et Google sheet), il permet notamment de : 
 * Réordonner / supprimer des colonnes
