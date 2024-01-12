@@ -17,6 +17,9 @@ Voici les liens pour rappel, vous n’avez qu’à les copier-coller :
 * Travaux de voirie : [https://raw.githubusercontent.com/FuturoCite/standard-travaux-voiries/main/schema.json](https://raw.githubusercontent.com/FuturoCite/standard-travaux-voiries/main/schema.json) 
 * Stationnements vélo : [https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/schema.json](https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/schema.json) 
 * Marchés : https://raw.githubusercontent.com/FuturoCite/standard-marches/main/schema.json
+* Défibrillateurs : https://raw.githubusercontent.com/FuturoCite/standard-defibrillateurs/main/schema.json
+* Aires de loisirs : https://raw.githubusercontent.com/FuturoCite/standard-aires-loisirs/main/schema.json
+* Patrimoine naturel ou matériel : https://raw.githubusercontent.com/FuturoCite/standard-patrimoine-naturel-ou-materiel/main/schema.json
 
 (Pour information, ces liens sont des uri. Elles se trouvent dans les fichiers tableschema, auxquels vous pouvez accéder depuis le site de FuturoCité [http://www.futurocite.be/standardiser-les-donnees-ouvertes/](http://www.futurocite.be/standardiser-les-donnees-ouvertes/) 
 
